@@ -1,6 +1,6 @@
 # Hexatris
 
-> It's Tetris, but hexagons<br> > \- Me
+> It's Tetris, but hexagons<br> \- Me
 
 Hexatris is an over-engineered variation of Tetris made in Scratch3
 
